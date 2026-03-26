@@ -1,0 +1,16 @@
+*.o
+*.out
+*.exe
+
+main
+
+*.tmp
+*.log
+
+.vscode/
+.idea/
+*.swp
+
+.DS_Store
+
+*.tar
